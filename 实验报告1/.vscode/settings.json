@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "editor.fontSize": 30,
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
