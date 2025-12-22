@@ -1,6 +1,6 @@
 {
     "terminal.integrated.fontFamily":"",
-    "terminal.integrated.fontSize":"18px",
+    "terminal.integrated.fontSize":18,
     "terminal.integrated.fontLigatures.fallbackLigatures": [
 
         "<--",
